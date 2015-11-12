@@ -21,7 +21,6 @@ var bio =
             "CSS 3",
             "JS"
          ]
-         
       };
 var education =
       {  
